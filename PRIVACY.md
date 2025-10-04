@@ -2,7 +2,7 @@
 
 **Effective Date:** January 11, 2025  
 **Developer:** Ahmed Chebbi  
-**Contact:** ahmed.chebbi@gmail.com  
+**Contact:** ahmedd.chebbi@gmail.com  
 **App Name:** MQTT Nova  
 **Location:** Germany
 
