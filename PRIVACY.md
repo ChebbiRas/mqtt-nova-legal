@@ -143,7 +143,7 @@ If you are located in the European Union, you have additional rights under GDPR:
 - **Right to Data Portability:** Export data in a machine-readable format
 - **Right to Object:** Object to data processing (opt-out of personalized ads)
 
-To exercise these rights, use the in-app features or contact us at ahmed.chebbi@gmail.com
+To exercise these rights, use the in-app features or contact us at ahmedd.chebbi@gmail.com
 
 ---
 
@@ -170,7 +170,7 @@ Full license information available in the app repository.
 
 ## 8. Children's Privacy
 
-MQTT Nova is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us at ahmed.chebbi@gmail.com.
+MQTT Nova is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us at ahmedd.chebbi@gmail.com.
 
 ---
 
@@ -197,7 +197,7 @@ We recommend reviewing this policy periodically.
 For questions, concerns, or requests regarding this Privacy Policy or your data:
 
 **Developer:** Ahmed Chebbi  
-**Email:** ahmed.chebbi@gmail.com  
+**Email:** ahmedd.chebbi@gmail.com  
 **App:** MQTT Nova  
 **Location:** Germany
 
