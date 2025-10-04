@@ -3,7 +3,7 @@
 **Last Updated:** January 2025
 
 **Developer:** Ahmed Chebbi  
-**Contact:** ahmed.chebbi@gmail.com  
+**Contact:** ahmedd.chebbi@gmail.com  
 **Location:** Germany
 
 ---
