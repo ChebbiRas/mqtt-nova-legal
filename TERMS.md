@@ -2,7 +2,7 @@
 
 **Effective Date:** January 11, 2025  
 **Developer:** Ahmed Chebbi  
-**Contact:** ahmed.chebbi@gmail.com  
+**Contact:** ahmedd.chebbi@gmail.com  
 **App Name:** MQTT Nova  
 **Location:** Germany
 
@@ -244,7 +244,7 @@ The App is not intended for children under 13. We do not knowingly collect data 
 For questions about these Terms:
 
 **Developer:** Ahmed Chebbi  
-**Email:** ahmed.chebbi@gmail.com  
+**Email:** ahmedd.chebbi@gmail.com  
 **App:** MQTT Nova  
 **Location:** Germany
 
